@@ -29,21 +29,6 @@
 - Data Science and Analytics
 - Programming
 
-<h3 align="left">Education:</h3>
 
-- BSc Physical Science, University of Kelaniya (2020 - Present)
-- G.C.E Advanced Level, Thelijjawila Central College, Matara (2020)
-  - Physics: C
-  - Combined Mathematics: B
-  - Chemistry: C
-- G.C.E Ordinary Level (8A passes, 1C pass)
 
-<h3 align="left">Interests:</h3>
 
-- Data Science and Analytics
-- Programming
-- Music
-
-<h3 align="left">Soft Skills:</h3>
-
-Leadership, Self-motivation, Flexibility, Decision-making, Multitasking, Teamwork, Analytical thinking
