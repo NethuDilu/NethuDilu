@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dilunika Silva</h1>
 <h3 align="center">A passionate undergraduate in Physical Science from Sri Lanka</h3>
 
-- 🎓 I'm currently pursuing a BSc in Physical Science at the **University of Kelaniya**
-- 🔬 My focus areas are Statistics, Pure Mathematics, and Computer Science
+- 🎓 I'm currently pursuing a BSc(Hons)Statistics at the **University of Kelaniya**
+- 🔬 My focus areas are Statistics(mainly), Pure Mathematics, and Computer Science
 - 🌱 I'm actively seeking internship opportunities to apply and develop my skills
 - 💬 Ask me about **Python, Java, C, HTML, Statistical Analysis**
 - 📫 How to reach me: **dilunikanethmi0@gmail.com**
@@ -28,6 +28,7 @@
 - Group Project Collaboration
 - Data Science and Analytics
 - Programming
+- Research Methodology
 
 
 
